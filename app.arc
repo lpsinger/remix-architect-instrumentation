@@ -12,3 +12,5 @@ remix-architect-app
 # profile default
 # region us-west-1
   
+@plugins
+tracing

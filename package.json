@@ -10,10 +10,13 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@opentelemetry/auto-instrumentations-node": "^0.34.0",
+    "@opentelemetry/sdk-node": "^0.34.0",
     "@remix-run/architect": "^1.11.0",
     "@remix-run/node": "^1.11.0",
     "@remix-run/react": "^1.11.0",
     "cross-env": "^7.0.3",
+    "opentelemetry-instrumentation-remix": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
